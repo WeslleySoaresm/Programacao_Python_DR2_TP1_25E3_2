@@ -26,12 +26,6 @@ Os exercícios abordam os seguintes tópicos principais:
 
 Abaixo está a lista detalhada dos 12 exercícios contidos neste trabalho.
 
-\<details\>
-\<summary\>
-\<strong\>Clique aqui para expandir e ver os objetivos de cada exercício.\</strong\>
-\</summary\>
-
-\<br\>
 
 1.  **Cadastro de Estagiário com Variáveis Simples**
 
